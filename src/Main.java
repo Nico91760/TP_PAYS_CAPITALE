@@ -4,7 +4,7 @@ public class Main {
 
 	private static Scanner clavier;
 	
-	//BLABLAAAAAAAAAAAAAAAAAAAAAAAAAA
+	//BLABLAAAAAAAAAAAAAAAAAAAAAAAAAA TEST
 	
 	public static void main(String[] args) {
 		
