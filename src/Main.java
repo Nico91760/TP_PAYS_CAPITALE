@@ -4,6 +4,8 @@ public class Main {
 
 	private static Scanner clavier;
 	
+	//BLABLAAAAAAAAAAAAAAAAAAAAAAAAAA TEEEEEEEEEEEEEEEEEEEST
+	
 	public static void main(String[] args) {
 		
 		clavier = new Scanner(System.in);
