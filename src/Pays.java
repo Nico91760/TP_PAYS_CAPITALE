@@ -1,6 +1,8 @@
 
 public class Pays {
 	
+	//Coucou de ton employé préféré <3
+	
 	//Attributs privés
 	
 	private String nom;
